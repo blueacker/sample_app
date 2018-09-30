@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is just a demo for Rails Development
 
-Things you may want to cover:
+## Getting started
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Install Rails 5.0.0
+```shell
+gem install rails -v 5.0.0
+rails _5.0.0_ new sample_app
+```
+1. bundle install --without production
+2. rails db:migrate
+3. rails test
+4. rails server
