@@ -23,3 +23,6 @@
 # Ignore stange file
 .tags
 .tags1
+
+# Ignore Spring files
+/spring/*.pid
