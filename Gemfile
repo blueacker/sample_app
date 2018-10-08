@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails',        '~> 5.0.0'
+gem 'bootstrap-sass', '3.3.6'
 gem 'pg',           '0.18.4'
 # Use Puma as the app server
 gem 'puma',         '~> 3.0'
